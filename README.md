@@ -1,13 +1,11 @@
 BrierDecomp
 Numpy-Implementation for 3-component decomposition of Brier Score into Reliability, Resolution and Uncertainty, and their estimated standard deviations
 
-This code was derived from the R-package 'Specs Verification' (Function: BrierDecomp) 
-by Stefan Siegert, Jonas Bhend, Igor Kroener and Matteo De Felice 
+This code was derived from the R-package 'Specs Verification - Forecast Verification Routines for Ensemble Forecasts of Weather and Climate' (Function: BrierDecomp) 
+by Stefan Siegert, Jonas Bhend, Igor Kroener and Matteo De Felice.
 Dept. Mathematics and Statistics, University of Exeter, UK
-Title: Forecast Verification Routines for Ensemble Forecasts of Weather and Climate
-CRAN Repository: https://rdrr.io/cran/SpecsVerification/src/R/BrierDecomp.R 
-Github: https://github.com/sieste/SpecsVerification
-Date/Publication: 2020-02-26 15:40:06 UTC
+- CRAN Repository: https://rdrr.io/cran/SpecsVerification/src/R/BrierDecomp.R (Date/Publication: 2020-02-26 15:40:06 UTC)
+- Github: https://github.com/sieste/SpecsVerification
 
 The function BrierDecomp() has the following input and output.
 
