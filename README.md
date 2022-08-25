@@ -20,6 +20,6 @@ OUTPUT:
 - dictionary with corresponding std. deviations
 
 References:
-- Murphy (1973): A New Vector Partition of the Probability Score. J. Appl. Met. https://doi.org/10.1175/1520-0450(1973)012<0595:ANVPOT>2.0.CO;2 
+- Murphy (1973): A New Vector Partition of the Probability Score. J. Appl. Met. [https://doi.org/10.1175/1520-0450(1973)012<0595:ANVPOT>2.0.CO;2 ](https://journals.ametsoc.org/view/journals/apme/12/4/1520-0450_1973_012_0595_anvpot_2_0_co_2.xml)
 - Ferro and Fricker (2012): A bias-corrected decomposition of the Brier score. QJRMS. https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.1924 
 - Siegert (2013): Variance estimation for Brier Score decomposition. QJRMS. https://arxiv.org/abs/1303.6182 
