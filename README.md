@@ -9,6 +9,7 @@ Dept. Mathematics and Statistics, University of Exeter, UK
   Date/Publication: 2020-02-26 15:40:06 UTC
 
 The function BrierDecomp() has the following input and output.
+
 INPUT:
 - p: 1d array of predicted probabilities
 - y: 1d array of binary observations (0 or 1)
