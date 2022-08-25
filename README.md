@@ -1,5 +1,5 @@
 ## 3-component Decomposition of Brier Score
-### Numpy-Implementation for 3-component decomposition of Brier Score into Reliability, Resolution and Uncertainty, and their estimated standard deviations
+### Numpy-implementation for 3-component decomposition of Brier Score into Reliability, Resolution and Uncertainty, and their estimated standard deviations
 
 This code was derived from the R-package 'Specs Verification - Forecast Verification Routines for Ensemble Forecasts of Weather and Climate' (Function: BrierDecomp) 
 by Stefan Siegert, Jonas Bhend, Igor Kroener and Matteo De Felice.
@@ -20,6 +20,6 @@ OUTPUT:
 - dictionary with corresponding std. deviations
 
 References:
-- Murphy (1973): A New Vector Partition of the Probability Score. J. Appl. Met. \doi{10.1175/1520-0450(1973)012<0595:ANVPOT>2.0.CO;2}
-- Ferro and Fricker (2012): A bias-corrected decomposition of the Brier score. QJRMS. \doi{10.1002/qj.1924}
-- Siegert (2013): Variance estimation for Brier Score decomposition. QJRMS. \doi{10.1002/qj.2228}
+- Murphy (1973): A New Vector Partition of the Probability Score. J. Appl. Met. https://doi.org/10.1175/1520-0450(1973)012<0595:ANVPOT>2.0.CO;2 
+- Ferro and Fricker (2012): A bias-corrected decomposition of the Brier score. QJRMS. https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.1924 
+- Siegert (2013): Variance estimation for Brier Score decomposition. QJRMS. https://arxiv.org/abs/1303.6182 
