@@ -17,8 +17,8 @@ INPUT:
 - bias_corrected: logical, default=False, if false, the standard (biased) decomposition of Murphy (1973) is used. If true, the bias-corrected decomposition of Ferro (2012) (See References in Readme)
 
 OUTPUT:
-    1) dictionary with estimates of Reliability, Resolution and Uncertainty
-    2) dictionary with corresponding std. deviations
+- dictionary with estimates of Reliability, Resolution and Uncertainty
+- dictionary with corresponding std. deviations
 
 References:
 - Murphy (1973): A New Vector Partition of the Probability Score. J. Appl. Met. \doi{10.1175/1520-0450(1973)012<0595:ANVPOT>2.0.CO;2}
