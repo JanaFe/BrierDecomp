@@ -1,5 +1,5 @@
-BrierDecomp
-Numpy-Implementation for 3-component decomposition of Brier Score into Reliability, Resolution and Uncertainty, and their estimated standard deviations
+## 3-component Decomposition of Brier Score
+### Numpy-Implementation for 3-component decomposition of Brier Score into Reliability, Resolution and Uncertainty, and their estimated standard deviations
 
 This code was derived from the R-package 'Specs Verification - Forecast Verification Routines for Ensemble Forecasts of Weather and Climate' (Function: BrierDecomp) 
 by Stefan Siegert, Jonas Bhend, Igor Kroener and Matteo De Felice.
