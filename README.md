@@ -9,15 +9,15 @@ Dept. Mathematics and Statistics, University of Exeter, UK
   Date/Publication: 2020-02-26 15:40:06 UTC
 
 The function BrierDecomp() has the following input and output:
-INPUT:
-    - p: 1d array of predicted probabilities
-    - y: 1d array of binary observations (0 or 1)
-    - bins: to estimate the calibration function, default: 10
-    - bias_corrected: logical, default=False, if false, the standard (biased) decomposition of Murphy (1973) is used, 
-                                              if true, the bias-corrected decomposition of Ferro (2012) (See References in Readme)
-OUTPUT:
-    1) dictionary with estimates of Reliability, Resolution and Uncertainty
-    2) dictionary with corresponding std. deviations
+INPUT:\\
+    - p: 1d array of predicted probabilities\\
+    - y: 1d array of binary observations (0 or 1)\\
+    - bins: to estimate the calibration function, default: 10\\
+    - bias_corrected: logical, default=False, if false, the standard (biased) decomposition of Murphy (1973) is used, \\
+                                              if true, the bias-corrected decomposition of Ferro (2012) (See References in Readme)\\
+OUTPUT:\\
+    1) dictionary with estimates of Reliability, Resolution and Uncertainty\\
+    2) dictionary with corresponding std. deviations\\
     
     
 
