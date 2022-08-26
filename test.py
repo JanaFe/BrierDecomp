@@ -17,7 +17,6 @@ p = np.array([0.94725436,0.9053663,0.15559863,0.18543585,0.24392618,0.97578883,0
               0.7339622,0.22357145,0.33462253,0.17155208,0.14778529,0.09295429,0.47029933,0.7423472,0.3012784,0.17553441]) 
 y = np.array([1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0])
 bins = np.quantile(p, q=np.arange(0.0, 1.1, 0.1)) #until 1.1, so that 1.0 is still included
-bias_corrected=False
 
 est, sd = BrierDecomp(p,y, bins=bins, bias_corrected=True)
 print(est)
